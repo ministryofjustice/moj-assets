@@ -11,7 +11,7 @@
   "description": "MOJ Assets",
   "license": "MIT",
   "homepage": "http://github.com/ministryofjustice",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
