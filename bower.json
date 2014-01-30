@@ -1,0 +1,19 @@
+{
+  "name": "moj-bower",
+  "version": "0.0.1",
+  "authors": [
+    "MOJ Digital Services"
+  ],
+  "description": "MOJ Assets",
+  "license": "MIT",
+  "homepage": "http://github.com/ministryofjustice",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ]
+}
