@@ -4,7 +4,7 @@
   "main": [
     "dist/javascripts/moj-assets.js",
     "dist/stylesheets/moj-base.css"
-  ]
+  ],
   "authors": [
     "MOJ Digital Services"
   ],
