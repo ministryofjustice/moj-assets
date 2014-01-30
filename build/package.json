@@ -1,10 +1,5 @@
 {
-  "name": "moj-bower",
-  "version": "0.0.1",
-  "homepage": "http://github.com/ministryofjustice",
-  "author": {
-    "name": "MOJ Digital Service"
-  },
+  "name": "moj-assets-build",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "~0.3.0",
