@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please use moj_template & moj_elements.
+
 # MOJ Frontend Assets
 
 This repository contains compiled (`dist/`) and sourecode (`src/`) versions of the assets required for Ministry of Justice services hosted on the gov.uk domain.
